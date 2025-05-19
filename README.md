@@ -78,41 +78,27 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </thead>
  <tbody>
     <tr>
-      <td>1. O grupo precisará desenvolver os protótipos da interface do sistema, de acordo com os diagramas de caso de uso que foram desenvolvidos na primeira fase do projeto;</td>
+      <td>1. Revisitar o projeto apresetado e definir qual será a prova de conceito que precisa ser desenvolvida.</td>
       <td>✅ Feito.</td>
     </tr>  
     <tr>
-      <td>2. Todos os integrantes do grupo precisam criar uma conta no GitHub. O grupo precisará se reunir e definir qual dos integrantes do grupo ficará responsável pela criação do repositório para o projeto.;</td>
+      <td>2. Preparação do ambiente de desenvolvimento do projeto (Seleção de tecnologias de frontend, backend e banco de dados);</td>
       <td>✅ Feito.</td>
     </tr>
     <tr>
-      <td>3. o grupo deverá se organizar para criar o arquivo de documentação (readme.md) e anexar todos os protótipos desenvolvidos, incluindo também na documentação os diagramas que foram criados na fase 1 do projeto em formato Markdown</td>
+      <td>3. Desenvolvimento do frontend do projeto</td>
+      <td>✅ Feito.</td>
+    </tr>
+    <tr>
+      <td>4. Desenvolvimento do backend do projeto (com repositório de dados associado).</td>
+      <td>✅ Feito.</td>
+    </tr>
+    <tr>
+      <td>4. Vídeo das funcionalidades do projeto (1min).</td>
       <td>✅ Feito.</td>
     </tr>
    </tbody>
 </table>
-
-## 📱 Prova de conceito:
-### 📲 Tela de Início
-<div style="display: flex;">
-  <img width="200" src="./assets/tela_logo.png"/>
-  <img width="226" src="./assets/tela_identificacao.png"/>
-  <img width="218" src="./assets/tela_login.png"/>
-</div>
-
-### 📲 Tela de Cadastro Pet
-<div style="display: flex;">
-  <img width="204" src="./assets/tela_cadastro_pessoa_fisica.png"/>
-  <img width="200" src="./assets/tela_home_aluno.png"/>
-  <img width="204" src="./assets/tela_home_professor.png"/>
-</div>
-
-### 📲 Tela de Visualização dos Pets
-<div style="display: flex;">
-  <img width="202" src="./assets/tela_cadastro_identificacao.png"/>
-  <img width="205" src="./assets/tela_cadastro_colaborador.png"/>
-  <img width="200" src="./assets/tela_cadastro_fornecedor.png"/>
-</div>
 
 ********
 
@@ -122,6 +108,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center"><a href="https://www.linkedin.com/in/alice-plentz-0423471b5/"><img border-radius= "50%" src="https://avatars.githubusercontent.com/u/148882261?v=4" width="100px;" alt=""/><br /><sub><b>Alice de Carvalho Plentz</b></sub></a><br />❤️</td>
     <td align="center"><a href=""><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/189549889?v=4" width="100px;" alt=""/><br /><sub><b>Carla Bianca Nascimento de Araújo</b></sub></a><br />❤️</td>
     <td align="center"><a href="https://www.linkedin.com/in/ezequiel-bomfim-b59143151/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/44683597?v=4" width="100px;" alt=""/><br /><sub><b>Ezequiel Costa Bomfim</b></sub></a><br />❤️</td>
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Willyan Rafael de Freitas</b></sub></a><br />❤️</td>
+    <td align="center"><a href=""><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Davi Vieira</b></sub></a><br />❤️</td>
   </tr>
 </table>
