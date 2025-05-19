@@ -20,10 +20,3 @@ PetCare é um sistema web responsivo desenvolvido para ajudar tutores a gerencia
 3. Acesse o `phpMyAdmin` e execute o script `db/criar_banco.sql`
 4. No navegador, acesse `http://localhost/petcare/pages/registrar.php` para criar sua conta
 5. Faça login e explore as funcionalidades do sistema
-
-## 👨‍💻 Integrantes do Projeto
-- Alice de Carvalho Plentz  
-- Carla Bianca Nascimento de Araújo  
-- Ezequiel Costa Bomfim  
-- Alberto Janeiro Duran Filho  
-- Davi Vieira

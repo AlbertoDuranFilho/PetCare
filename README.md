@@ -42,31 +42,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 └── README.md
 ```
 
-## 🚧  Etapas da Avaliação da primeira entrega e Progresso:
-
-<table>
-  <thead>
-    <tr>
-      <th>Tarefas</th>
-      <th>Andamento</th>      
-    </tr>
-  </thead>
- <tbody>
-    <tr>
-      <td>1. O grupo precisará desenvolver um diagrama de caso de uso que represente os seguinte cenários;</td>
-      <td>✅ Feito.</td>
-    </tr>
-    <tr>
-      <td>2. O grupo deve elaborar a descrição dos cenários dos casos de uso construídos, levando em consideração um cenário principal, dois cenários alternativos, pré-condição e pós-condição;</td>
-      <td>✅ Feito.</td>
-    </tr>    
-    <tr>
-      <td>3. Elaborar um diagrama de classe que esteja de acordo com a proposta de projeto. Esse diagrama deve conter pelo menos 5 classes;</td>
-      <td>✅ Feito.</td>
-    </tr>
-   </tbody>
-</table>
-
 ## 🚧  Etapas da Avaliação da segunda entrega e Progresso:
 
 <table>
