@@ -18,9 +18,26 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```
 ├── docs
+│   │── petCare__web_PI_SENAC_grupo_14.mp4
+│   │── petCare_PI_SENAC_grupo_14.mp4
 │   │── PI SENAC 4 SEMESTRE_SEGUNDA_ENTREGA.docx
 │   └── PI_Enunciado2Entrega.pdf
-├── mobile  
+├── mobile 
+│   │── assets
+│   │── src
+│   │   │── app
+│   │   │   │──navigation
+│   │   │   │──screens
+│   │   │   │──types
+│   │   │   └─ utils
+│   │   └─ styles
+│   │       └─ global.css
+│   │── .gitignore
+│   │── App.tsx
+│   │── babel.config.js
+│   │── package.json
+│   │── tsconfig.json
+│   └── app.json
 ├── web  
 │   │── css
 │   │   └── style.css
